@@ -12,7 +12,7 @@ Gustavo just started an e-commerce startup based in Portugal that recently open 
 1. Not all columns will be selected for analysis process, only columns with related information will be used.
 2. Check for missing value, data types, duplicate values, invalid values, and outliers.
 3. Renaming columns name for clarity purpose.
-4. Create additional columns (variables) to be used for analysis later (Total Revenue,Months Since Last Arrival, Percent Canceled)
+4. Create additional columns (variables) to be used for analysis later `payment_installments_cat`.
 5. Join all required column and table to one dataframe named as `dfco`, using merge functions in python.
 
 ## EDA Process
